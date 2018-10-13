@@ -1,0 +1,22 @@
+{
+  "name": "TEST",
+  "version": "0.1.0",
+  "summary": "A short description of TEST.",
+  "description": "TODO: Add long description of the pod here.",
+  "homepage": "https://github.com/MouseWang10215/TEST",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "MouseWang10215": "wanghao10215@sina.com"
+  },
+  "source": {
+    "git": "https://github.com/MouseWang10215/TEST.git",
+    "tag": "0.1.0"
+  },
+  "platforms": {
+    "ios": "8.0"
+  },
+  "source_files": "TEST/Classes/**/*"
+}
